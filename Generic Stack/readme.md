@@ -8,8 +8,8 @@ allowed.
 contain both int,double and the answer should be
 accordingly.
 * Example: 
-*1. Input : (4+5)/6*3 Output : 4.5
-*2. Input: (4+5.6)/3.2+(4+3.888) Output: 10.888
+* 1. Input : (4+5)/6*3 Output : 4.5
+* 2. Input: (4+5.6)/3.2+(4+3.888) Output: 10.888
  
 # Input format for this question:
 * Just read a single string from stdin.
