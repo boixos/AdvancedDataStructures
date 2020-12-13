@@ -461,4 +461,4 @@ int AvlTree<T>::InRange(node<T> *root, T val1, T val2)
     c1 = SmForRange(root, val1);
     c2 = SmForRange(root, val2);
     return (c2 - c1 + Rangecount);
-};
+ };
